@@ -1,0 +1,2 @@
+export const UPDATE_TAX_RATE = 'UPDATE_TAX_RATE'; 
+export const UPDATE_TAX_AMOUNT = 'UPDATE_TAX_AMOUNT'; 
